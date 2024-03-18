@@ -1,30 +1,30 @@
 NAME. [CLASS], MANA, ATTACK, HEALTH, [TYPE], RARITY, [ABILITIES]
 
-Innervate
-Moonfire
-Claw
-Naturalize
-Savagery
-Mark of the Wild
-Power of the Wild
-Wild Growth
-Wrath
-Healing Touch
-Mark of Nature
-Savage Roar
-Bite
-Keeper of the Grove
-Soul of the Forest
-Swipe
-Druid of the Claw
-Nourish
-Starfall
-Force of Nature
-Starfire
-Ancient of Lore
-Ancient of War
-Ironbark Protector
-Cenarius
+Innervate,[Druid],0,-1,-1
+Moonfire,[Druid],
+Claw,[Druid],
+Naturalize,[Druid],
+Savagery,[Druid],
+Mark of the Wild,[Druid],
+Power of the Wild,[Druid],
+Wild Growth,[Druid],
+Wrath,[Druid],
+Healing Touch,[Druid],
+Mark of Nature,[Druid],
+Savage Roar,[Druid],
+Bite,[Druid],
+Keeper of the Grove,[Druid],
+Soul of the Forest,[Druid],
+Swipe,[Druid],
+Druid of the Claw,[Druid],
+Nourish,[Druid],
+Starfall,[Druid],
+Force of Nature,[Druid],
+Starfire,[Druid],
+Ancient of Lore,[Druid],
+Ancient of War,[Druid],
+Ironbark Protector,[Druid],
+Cenarius,[Druid],
 Hunter's Mark
 Arcane Shot
 Bestial Wrath
