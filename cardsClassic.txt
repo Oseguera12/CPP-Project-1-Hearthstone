@@ -1,0 +1,383 @@
+NAME. [CLASS], MANA, ATTACK, HEALTH, [TYPE], RARITY, [ABILITIES]
+
+Innervate
+Moonfire
+Claw
+Naturalize
+Savagery
+Mark of the Wild
+Power of the Wild
+Wild Growth
+Wrath
+Healing Touch
+Mark of Nature
+Savage Roar
+Bite
+Keeper of the Grove
+Soul of the Forest
+Swipe
+Druid of the Claw
+Nourish
+Starfall
+Force of Nature
+Starfire
+Ancient of Lore
+Ancient of War
+Ironbark Protector
+Cenarius
+Hunter's Mark
+Arcane Shot
+Bestial Wrath
+Flare
+Timber Wolf
+Tracking
+Explosive Trap
+Freezing Trap
+Misdirection
+Scavenging Hyena
+Snake Trap
+Snipe
+Starving Buzzard
+Animal Companion
+Deadly Shot
+Eaglehorn Bow
+Kill Command
+Unleash the Hounds
+Houndmaster
+Multi-Shot
+Explosive Shot
+Tundra Rhino
+Savannah Highmane
+Gladiator's Longbow
+Kind Krush
+Arcane Missiles
+Ice Lance
+Mana Wyrm
+Mirror Image
+Arcane Explosion
+Frostbolt
+Sorcerer's Apprentice
+Arcane Intellect
+Counterspell
+Frost Nova
+Ice Barrier
+Ice Block
+Kirin Tor Mage
+Mirror Entity
+Spellbender
+Vaporize
+Cone of Cold
+Ethereal Arcanist
+Fireball
+Polymorph
+Water Elemental
+Blizzard
+Archmage Antonidas
+Flamestrike
+Pyroblast
+Blessing of Might
+Blessing of Wisdom
+Eye for an Eye
+Hand of Protection
+Humility
+Light's Justice
+Noble Sacrifice
+Redemption
+Repentance
+Argent Protector
+Equality
+Holy Light
+Aldor Peacekeeper
+Divine Favor
+Sword of Justice
+Blessing of Kings
+Consecration
+Hammer of Wrath
+Truesilver Champion
+Blessed Champion
+Holy Wrath
+Avenging Wrath
+Guardian of Kings
+Lay on Hands
+Tirion Fordring
+Circle of Healing
+Silence
+Holy Smite
+Inner Fire
+Mind Vision
+NorthShire Cleric
+Power Word: Shield
+Divine Spirit
+Lightwell
+Mind Blast
+Shadow Word: Pain
+Shadow Word: Death
+Shadowform
+Thoughtsteal
+Auchenai Soulpriest
+Lightspawn
+Mass Dispel
+Mindgames
+Shadow Madness
+Holy Nova
+Cabal Shadow Priest
+Holy Fire
+Temple Enforcer
+Prophet Velen
+Mind Control
+Backstab
+Preparation
+Shadowstep
+Cold Blood
+Conceal
+Deadly Poison
+Sinister Strike
+Betrayal
+Blade Flurry
+Defias Ringleader
+Eviscerate
+Patient Assassin
+Sap
+Shiv
+Edwin VanCleef
+Fan of Knives
+Headcrack
+Perdition's Blade
+SI:7 Agent
+Master of Disguise
+Assassin's Blade
+Assassinate
+Kidnapper
+Vanish
+Sprint
+Ancestral Healing
+Totemic Might
+Dust Devil
+Earth Shock
+Forked Lightning
+Frost Shock
+Lightning Bolt
+Rockbiter Weapon
+Ancenstral Spirit
+Flametongue Totem
+Stormforged Axe
+Windfury
+Far Sight
+Hex
+Lava Burst
+Lightning Storm
+Mana Tide Totem
+Unbound Elemental
+Windspeaker
+Bloodlust
+Doomhammer
+Earth Elemental
+Fire Elemental
+Al'Akir the Windlord
+Sacrificial Pact
+Soulfire
+Blood Imp
+Corruption
+Flame Imp
+Mortal Coil
+Power Overwhelming
+Voidwalker
+Demonfire
+Felstalker
+Drain Life
+Felguard
+Sense Demons
+Shadow Bolt
+Void Terror
+Hellfire
+Pit Lord
+Shadowflame
+Summoning Portal
+Bane of Doom
+Doomguard
+Dread Infernal
+Siphon Soul
+Twisting Nether
+Lord Jaraxxus
+Inner Rage
+Execute
+Shield Slam
+Upgrade!
+Whirlwind
+Armorsmith
+Battle Rage
+Cleave
+Commanding Shout
+Cruel Taskmaster
+Fiery War Axe
+Heroic Strike
+Rampage
+Slam
+Charge
+Frothing Berserker
+Shield Block
+Warsong Commander
+Arathi Weaponsmith
+Kor'kron Elite
+Mortal Strike
+Arcanite Reaper
+Brawl
+Gorehowl
+Grommash Hellscream
+Wisp
+Abusive Sergeant
+Angry Chicken
+Argent Squire
+Bloodsail Corsair
+Elven Archer
+Goldshire Footman
+Grimscale Oracle
+Hungry Crab
+Leper Gnome
+Lightwarden
+Murioc Raider
+Murioc Tidecaller
+Secretkeeper
+Shieldbearer
+Southsea Deckhand
+Stonetusk Boar
+Voodoo Doctor
+Worgen Infiltrator
+Young Dragonhawk
+Young Priestess
+Acidic Swamp Ooze
+Armani Berserker
+Ancient Watcher
+Bloodfen Raptor
+Bloodmage Thainos
+Bloodsail Raider
+Bluegill Warrior
+Captain's Parrot
+Crazed Alchemist
+Dire Wolf Alpha
+Doomsayer
+Faerie Dragon
+Frostwolf Grunt
+Ironbreak Owl
+Knife Juggler
+Kobold Geomancer
+Loot Hoarder
+Lorewalker Cho
+Mad Bomber
+Mana Addict
+Mana Wraith
+Master Swordsmith
+Millhouse Manastorm
+Murloc Tidehunter
+Nat Pagle
+Novice Engineer
+Pint-Sized Summoner
+River crocolisk
+Sunfury Protector
+Wild Pyromancer
+Youthful Brewmaster
+Acolyte of Pain
+Alarm-o-Bot
+Arcane Golem
+Big Game Hunter
+Blood Knight
+Coldlight Oracle
+Coldlight Seer
+Dalaran Mage
+Demolisher
+Earthen Ring Farseer
+Emperor Cobra
+Flesheating Ghoul
+Harvest Golem
+Imp Master
+Injured Blademaster
+Ironforge Rifleman
+Ironfur Grizzly
+Jungle Panther
+King Mukia
+Magma Rager
+Mind Control Tech
+Murloc Warleader
+Questing Adventurer
+Raging Worgen
+Raid Leader
+Razorfen Hunter
+Scarlet Crusador
+Shattered Sun Cleric
+Silverback Patriarch
+Southsea Captain
+Tauren Warrior
+Thrallmar Farseer
+Tinkmaster Overspark
+Wolfrider
+Ancient Brewmaster
+Ancient Mage
+Chillwind Yeti
+Cult Master
+Dark Iron Dwarf
+Defender of Argus
+Dragonling Mechanic
+Dread Corsair
+Gnomish Inventor
+Leeroy Jenkins
+Mogu'shan Warden
+Oasis Snapjaw
+Ogre Magi
+Old Murk-Eye
+Sen'jin Shieldmasta
+Silvermoon Guardian
+Spellbreaker
+Stormwind Knight
+Twilight Drake
+Violet Teacher
+Abomination
+Azure Drake
+Booty Bay Bodyguard
+Captain Greenskin
+Darkscale Healer
+Elite Tauren Chieftain
+Faceless Manipulator
+Fen Creeper
+Frostwolf Warlord
+Gadgetzan Auctioneer
+Gurubashi Berserker
+Harrison Jones
+Nightblade
+Silver Hand Knight
+Spiteful Smith
+Stampeding Kodo
+Stormpike Commando
+Stranglethorn Tiger
+Venture Co. Mercenary
+Archmage
+Argent Commander
+Boulderfist Ogre
+Cairne Bloodhoof
+Frost Elemental
+Gelbin Mekkatorque
+Hogger
+Illidan Stormrage
+Lord of the Arena
+Priestess of Elune
+Reckless Rocketeer
+Sunwalker
+Sylvanas Windrunner
+The Beast
+The Black Knight
+Windfurry Harpy
+Baron Geddon
+Core Hound
+Ravenholdt Assassin
+Stormwind Champion
+War Golem
+Gruul
+Ragnaros the Firelord
+Alexstrasza
+Malygos
+Nozdormu
+Onyxia
+Ysera
+Deathwing
+Sea Giant
+Mountain Giant
+Molten Giant
