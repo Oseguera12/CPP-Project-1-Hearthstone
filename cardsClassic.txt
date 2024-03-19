@@ -1,30 +1,46 @@
-NAME. [CLASS], MANA, ATTACK, HEALTH, [TYPE], RARITY, [ABILITIES]
+NAME. [CLASS], MANA, ATTACK, HEALTH, [TYPE], RARITY, [KEYWORDS], [ABILITIES]
+H - hero
+M - minion
++?M - add ? Mana
+-?M - lose ? mana
++?A - add ? attack
+-?A - lose ? attack
++?P - add ? armor
+-?p - lose ? armor
++?D - deal ? damage
+-?D - take ? damage
++D? - draw ? cards
+-D? - opponent draws ? cards
++?M - destroy ? minions
+-?M - destroy ? opponents minions
 
-Innervate,[Druid],0,-1,-1
-Moonfire,[Druid],
-Claw,[Druid],
-Naturalize,[Druid],
-Savagery,[Druid],
-Mark of the Wild,[Druid],
+Innervate,[Druid],0,-1,-1,[Spell],Free,[NA],[+2M]
+Moonfire,[Druid],0,-1,-1,[Spell],Free,[NA],[+1D]
+Claw,[Druid],1,-1,-1,[Spell],Free,[NA],[+2A,+2P]
+Naturalize,[Druid],1,-1,-1,[Spell],Common,[NA],[-D2,+1M]
+
+Savagery,[Druid],1,-1,-1,[Spell],Rare,[NA],[]
+Mark of the Wild,[Druid],3,-1,-1,[Spell],[Taunt]
 Power of the Wild,[Druid],
 Wild Growth,[Druid],
 Wrath,[Druid],
 Healing Touch,[Druid],
-Mark of Nature,[Druid],
+Mark of Nature,[Druid],[Taunt}
 Savage Roar,[Druid],
 Bite,[Druid],
-Keeper of the Grove,[Druid],
-Soul of the Forest,[Druid],
+Keeper of the Grove,[Druid],[Silence]
+Soul of the Forest,[Druid],[Deathrattle]
 Swipe,[Druid],
-Druid of the Claw,[Druid],
+Druid of the Claw,[Druid],[Charge,Taunt]
 Nourish,[Druid],
 Starfall,[Druid],
-Force of Nature,[Druid],
+Force of Nature,[Druid],[Charge]
 Starfire,[Druid],
 Ancient of Lore,[Druid],
-Ancient of War,[Druid],
-Ironbark Protector,[Druid],
-Cenarius,[Druid],
+Ancient of War,[Druid],[Taunt]
+Ironbark Protector,[Druid],[Taunt]
+Cenarius,[Druid],[Taunt]
+
 Hunter's Mark
 Arcane Shot
 Bestial Wrath
